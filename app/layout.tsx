@@ -5,7 +5,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Cancel Buddy",
-  description: "Subscription remainder dashboard",
+  description: "CancelBuddy — Remind users to cancel unused subscriptions",
 };
 
 export default function RootLayout({

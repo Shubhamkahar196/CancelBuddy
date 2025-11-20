@@ -1,4 +1,14 @@
 @import "tailwindcss";
+/* optional: smooth color transitions
+:root { color-scheme: light; }
+.dark { color-scheme: dark; } */
+
+/* small helpers */
+html, body, #__next {
+  height: 100%;
+}
+
+
 
 
 @theme {
